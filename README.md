@@ -54,9 +54,6 @@
 - **[Kafka Trade Anomaly Detector](https://github.com/Harry9321/repo-name)**: streaming pipeline that flags suspicious trading patterns in real time
 - **[Portfolio](https://hariom.is-a.dev)**: my personal site and blog
 
-<!-- STATS: uncomment once you have a few backend/AI projects and regular commits.
-     Right now they would show low numbers and mostly CSS/JavaScript.
-
 <hr>
 
 ## ⚡️ Stats
@@ -66,7 +63,6 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=Harry9321&theme=transparent&border_radius=10" alt="GitHub streak" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harry9321&theme=transparent&layout=donut&langs_count=8&border_radius=10" alt="Top languages" />
 </div>
--->
 
 <hr>
 
