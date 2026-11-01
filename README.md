@@ -1,48 +1,82 @@
 <!-- GitHub profile README for github.com/Harry9321
-     How to use: create a PUBLIC repo named exactly "Harry9321", add this file as README.md.
-     Before publishing: replace the project links below with your real repos, or delete those lines. -->
+     Upload this to your PUBLIC repo named "Harry9321".
+     Before publishing: replace the project links with real repos, or delete those lines. -->
 
-# Hi, I'm Hariom Sahu
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=3500&lines=Hi+there!+%F0%9F%91%8B;I'm+Hariom+Sahu;Backend+%26+GenAI+Engineer" alt="Typing intro" />
+</h1>
 
-Backend and GenAI engineer at **Multi Commodity Exchange (MCX)**, India's largest commodity derivatives exchange. I build Python APIs, distributed pipelines and production AI systems where speed and correctness matter.
+<h3 align="center">Backend and GenAI engineer at Multi Commodity Exchange (MCX), building Python APIs, distributed pipelines and production AI systems where speed and correctness matter.</h3>
 
-### What I work on
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harry9321&label=Profile%20views&color=4493F8&style=flat" alt="Profile views" />
+</p>
+
+<hr>
+
+### 👨‍💻 What I work on
 
 - **Backend systems:** production REST APIs in Python (FastAPI) for client lifecycle management of 30M+ users
 - **Distributed processing:** re-architected a legacy monolith into a Celery + Redis pipeline, cutting file validation from 40 min to 3 min
 - **Event-driven data:** real-time Kafka pipeline and anomaly-detection engine for trade surveillance
-- **GenAI:** production RAG and agentic AI platform with parallel retrieval, neural reranking, guardrails and observability (40% lower latency, accuracy 45% → 85%)
+- **GenAI:** production RAG and agentic AI platform with parallel retrieval, neural reranking and guardrails (40% lower latency, accuracy 45% → 85%)
 
-> My MCX work is private, so the projects below rebuild the same ideas from scratch.
+- 🌱 Currently learning **Kubernetes** and **Prometheus + Grafana** monitoring
+- 💬 Ask me about **Python, FastAPI, Celery, Kafka, RAG** or anything [here](https://github.com/Harry9321/Harry9321/issues)
 
-### Projects
+<br>
 
-<!-- Replace each [repo-name] link with your real repo, or delete the line until it exists -->
+<div align="center">
+  <a href="mailto:hariomsahu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hariom-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hariom.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4493F8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,js,nodejs,express&perline=12" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,kafka&perline=12" alt="Data" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,grafana,githubactions,git,vercel,linux&perline=12" alt="DevOps" />
+</p>
+
+<hr>
+
+## 🚀 Projects
+
+<!-- Replace each repo-name link with your real repo, or delete the line until it exists -->
 - **[Distributed File Validator](https://github.com/Harry9321/repo-name)**: FastAPI + Celery + Redis pipeline with benchmarks for parallel vs single-process validation
 - **[Hybrid RAG Engine](https://github.com/Harry9321/repo-name)**: vector + BM25 retrieval, cross-encoder reranking, guardrails and an evaluation suite
 - **[Kafka Trade Anomaly Detector](https://github.com/Harry9321/repo-name)**: streaming pipeline that flags suspicious trading patterns in real time
 - **[Portfolio](https://hariom.is-a.dev)**: my personal site and blog
 
-### Tech stack
+<!-- STATS: uncomment once you have a few backend/AI projects and regular commits.
+     Right now they would show low numbers and mostly CSS/JavaScript.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+<hr>
 
-### Currently
+## ⚡️ Stats
 
-- Exploring evaluation methods for RAG and agentic AI systems
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Harry9321&theme=transparent&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=Harry9321&theme=transparent&border_radius=10" alt="GitHub streak" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harry9321&theme=transparent&layout=donut&langs_count=8&border_radius=10" alt="Top languages" />
+</div>
+-->
 
-### Connect
+<hr>
 
-[Portfolio & blog](https://hariom.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/hariom-dev/) · [Email](mailto:hariomsahu.dev@gmail.com)
+## 🐍 My Contributions
+
+<!-- Works after you add .github/workflows/generate-snake.yml and run it once from the Actions tab -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry9321/Harry9321/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry9321/Harry9321/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Harry9321/Harry9321/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
